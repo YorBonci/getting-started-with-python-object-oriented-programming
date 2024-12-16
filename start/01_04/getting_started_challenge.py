@@ -18,3 +18,9 @@ if __name__ == "__main__":
 
     print(card1)
     print(card2)
+
+    card3 = Card("Jack", "Diamonds")
+    card4 = Card("Ten", "Clubs")
+
+    print(card3)
+    print(card4)
